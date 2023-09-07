@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
  
-int main()
+void main()
 {
     cout << "\n\n Print a welcome text in a separate line \n";
     cout << "----------------------------------------------\n";
